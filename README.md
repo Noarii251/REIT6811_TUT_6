@@ -1,2 +1,3 @@
-# REIT6811_TUT_6
- Tutorial Github Exercise
+# AI_Research
+
+put some stuff - all data for the project
